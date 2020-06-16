@@ -29,6 +29,10 @@
  
  資料若發生碰撞，便會造成資料框損毀。
  
+ * 暫待演算法
+ 
+ backoff 能決定是否重新傳送資料。
+ 
  * 防止碰撞技術
  
  此為 載波感應多重存取/偵測碰撞 , Carrier Sense Multiple-Access / Collision Detection。
