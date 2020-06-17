@@ -50,7 +50,7 @@
  
  當碰撞區的節點越來越多，則發生碰撞的機率也高了，故使用交換機或是橋接器劃分多個碰撞區。
 
- 
+ https://github.com/QueenieCplusplus/ICND_Bridge
  
   
 
